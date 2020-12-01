@@ -14,9 +14,10 @@ A Simple Pomodoro Technique Time Application using HTML CSS and Vanilla Javascri
 
 Open **index.html** on any browser
 
+For Testing go to **index.html** file on line 16 set onclick to timer(10) to input it as 10 secs
+
 ## Features
 Format  **00:00**  - **MM:SS** 
-
 
 Simple and easy use
 
